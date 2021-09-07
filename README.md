@@ -1,4 +1,4 @@
-# AltServer
+# AltServer Beta
 
 AltServer 1.5b6 download link
 
