@@ -11,3 +11,6 @@ AltStore 1.5b2 download link
 [AltStore Beta ipa](https://smarturl.it/AltStoreBetaipa)
 
 All files will download from github using third party url shortener service.
+
+
+#Thanks for help. @vince_barter
