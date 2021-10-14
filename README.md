@@ -1,6 +1,6 @@
 # AltServer Beta
 
-AltServer 1.5b7 download link
+AltServer 1.5b8 download link
 
 [AltServer Windows](https://smarturl.it/altserverbetawindows)
 
