@@ -13,4 +13,4 @@ AltStore 1.5b2 download link
 All files will download from github using third party url shortener service.
 
 
-#Thanks for help. @vince_barter
+#Thanks to: @vince_barter
